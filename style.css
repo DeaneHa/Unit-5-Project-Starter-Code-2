@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'georgia', sans-serif;
+    background-color: beige;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+  border-radius: 10px;
+}
+
+.result {
+  padding-bottom: 200px;
+}
